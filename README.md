@@ -6,6 +6,8 @@ Minimal .NET demonstration project used during laboratory classes for the
 The repository is used by the instructor to demonstrate selected Software
 Engineering practices throughout the course.
 
+Experiment during Lab nr 1
+
 It starts as a minimal .NET console application and may evolve during
 subsequent labs as new engineering practices are introduced.
 
